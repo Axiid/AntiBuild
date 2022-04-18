@@ -1,0 +1,4 @@
+name: AntiBuild
+version: '${project.version}'
+main: it.axiid.Main
+authors: [ Axiid ]
