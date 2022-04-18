@@ -1,4 +1,9 @@
 name: AntiBuild
-version: '${project.version}'
+version: 1.0
 main: it.axiid.Main
-authors: [ Axiid ]
+author: Axiid
+commands:
+  antibuild:
+    aliases:
+      - ab
+      - build
